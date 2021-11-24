@@ -1,7 +1,7 @@
-# nateboucher-coderefractor
+# nateboucher-coderefactor
 Nathaniel Boucher
 
-Code Refractor weekly challenge 
+Code Refactor weekly challenge 
 
 Horiseon marketing agency homepage. Updated ot follow accessibility standards, HTML code re-structured using semantic elements, and CSS code reorganized to simplify styling.
 
